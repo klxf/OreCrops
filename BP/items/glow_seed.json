@@ -7,7 +7,7 @@
 		},
 		"components":{
 			"minecraft:display_name":{
-				"value":"tile.orecrops:item.glow_seed.name"
+				"value":"item.orecrops:glow_seed.name"
 			},
 			"minecraft:creative_category":{
 				"parent":"itemGroup.name.seed"

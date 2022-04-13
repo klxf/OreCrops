@@ -7,7 +7,7 @@
 		},
 		"components":{
 			"minecraft:display_name":{
-				"value":"tile.orecrops:item.quartz_seed.name"
+				"value":"item.orecrops:quartz_seed.name"
 			},
 			"minecraft:creative_category":{
 				"parent":"itemGroup.name.seed"

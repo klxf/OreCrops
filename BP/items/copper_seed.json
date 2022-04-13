@@ -7,7 +7,7 @@
 		},
 		"components":{
 			"minecraft:display_name":{
-				"value":"tile.orecrops:item.copper_seed.name"
+				"value":"item.orecrops:copper_seed.name"
 			},
 			"minecraft:creative_category":{
 				"parent":"itemGroup.name.seed"

@@ -7,7 +7,7 @@
 		},
 		"components":{
 			"minecraft:display_name":{
-				"value":"tile.orecrops:item.redstone_seed.name"
+				"value":"item.orecrops:redstone_seed.name"
 			},
 			"minecraft:creative_category":{
 				"parent":"itemGroup.name.seed"
