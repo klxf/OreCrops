@@ -1,0 +1,39 @@
+{
+	"resource_pack_name":"Ore Crops resource pack",
+	"texture_name":"atlas.items",
+	"texture_data":{
+		"coal_seed":{
+			"textures":"textures/items/fang/coal_seed"
+		},
+		"copper_seed":{
+			"textures":"textures/items/fang/copper_seed"
+		},
+		"diamond_seed":{
+			"textures":"textures/items/fang/diamond_seed"
+		},
+		"emerald_seed":{
+			"textures":"textures/items/fang/emerald_seed"
+		},
+		"glow_seed":{
+			"textures":"textures/items/fang/glow_seed"
+		},
+		"gold_seed":{
+			"textures":"textures/items/fang/gold_seed"
+		},
+		"iron_seed":{
+			"textures":"textures/items/fang/iron_seed"
+		},
+		"lapis_seed":{
+			"textures":"textures/items/fang/lapis_seed"
+		},
+		"nether_seed":{
+			"textures":"textures/items/fang/nether_seed"
+		},
+		"quartz_seed":{
+			"textures":"textures/items/fang/quartz_seed"
+		},
+		"redstone_seed":{
+			"textures":"textures/items/fang/redstone_seed"
+		}
+	}
+}

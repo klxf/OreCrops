@@ -1,0 +1,27 @@
+{
+	"format_version":"1.18.0",
+	"minecraft:item":{
+		"description":{
+			"identifier":"orecrops:copper_seed",
+			"category":"nature"
+		},
+		"components":{
+			"minecraft:display_name":{
+				"value":"tile.orecrops:item.copper_seed.name"
+			},
+			"minecraft:creative_category":{
+				"parent":"itemGroup.name.seed"
+			},
+			"minecraft:max_stack_size":64,
+			"minecraft:icon":{
+				"texture":"copper_seed"
+			},
+			"minecraft:block_placer":{
+				"block":"orecrops:copper_crop",
+				"use_on":[
+					"farmland"
+				]
+			}
+		}
+	}
+}

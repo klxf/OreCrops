@@ -1,0 +1,5 @@
+本资源包所有纹理均来自 Croparia 模组，以 MIT License 授权使用。
+All textures in this resource pack are from the Croparia mod, licensed under the MIT License.
+
+Github：https://github.com/PowerInMC/Croparia/
+Contributors：forestbat、TechnicianFreak

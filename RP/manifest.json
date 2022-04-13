@@ -1,0 +1,24 @@
+{
+    "format_version":2,
+    "header":{
+        "description":"Ore Crops (RP)",
+        "name":"Ore Crops resource pack",
+        "uuid":"330199b2-ea33-da59-8cb9-c412055d23e9",
+        "version":[0,0,1],
+        "min_engine_version":[1,18,10]
+    },
+    "modules":[
+        {
+            "description":"Ore Crops resource pack",
+            "type":"resources",
+            "uuid":"0e262f01-38dc-b893-0902-cb0140885a43",
+            "version":[0,0,1]
+        }
+    ],
+    "dependencies":[
+        {
+            "uuid":"c5960d44-cfa8-457d-83e4-ccc56fbc22e4",
+            "version":[0,0,1]
+        }
+    ]
+}

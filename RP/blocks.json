@@ -1,0 +1,11 @@
+{
+	"format_version":"1.18.0",
+	"orecrops:coal_crop":{
+		"textures":"crop_0",
+		"sound":"grass"
+	},
+	"orecrops:diamond_crop":{
+		"textures":"diamond_0",
+		"sound":"grass"
+	}
+}

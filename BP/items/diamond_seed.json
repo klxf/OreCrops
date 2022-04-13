@@ -1,0 +1,27 @@
+{
+	"format_version":"1.18.0",
+	"minecraft:item":{
+		"description":{
+			"identifier":"orecrops:diamond_seed",
+			"category":"nature"
+		},
+		"components":{
+			"minecraft:display_name":{
+				"value":"tile.orecrops:item.diamond_seed.name"
+			},
+			"minecraft:creative_category":{
+				"parent":"itemGroup.name.seed"
+			},
+			"minecraft:max_stack_size":64,
+			"minecraft:icon":{
+				"texture":"diamond_seed"
+			},
+			"minecraft:block_placer":{
+				"block":"orecrops:diamond_crop",
+				"use_on":[
+					"farmland"
+				]
+			}
+		}
+	}
+}
