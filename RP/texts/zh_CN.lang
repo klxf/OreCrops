@@ -1,10 +1,10 @@
 item.orecrops:coal_seed.name=煤炭种子
-item.orecrops:copper_seed.name=生铜种子
+item.orecrops:copper_seed.name=粗铜种子
 item.orecrops:diamond_seed.name=钻石种子
 item.orecrops:emerald_seed.name=绿宝石种子
 item.orecrops:glow_seed.name=荧石粉种子
-item.orecrops:gold_seed.name=生金种子
-item.orecrops:iron_seed.name=生铁种子
+item.orecrops:gold_seed.name=粗金种子
+item.orecrops:iron_seed.name=粗铁种子
 item.orecrops:lapis_seed.name=青金石种子
 item.orecrops:nether_seed.name=下界合金碎片种子
 item.orecrops:quartz_seed.name=下界石英种子

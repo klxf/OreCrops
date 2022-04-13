@@ -1,11 +1,47 @@
 {
-	"format_version":"1.18.0",
+	"format_version":"1.18.10",
 	"orecrops:coal_crop":{
 		"textures":"crop_0",
 		"sound":"grass"
 	},
+	"orecrops:copper_crop":{
+		"textures":"crop_0",
+		"sound":"grass"
+	},
 	"orecrops:diamond_crop":{
-		"textures":"diamond_0",
+		"textures":"crop_0",
+		"sound":"grass"
+	},
+	"orecrops:emerald_crop":{
+		"textures":"crop_0",
+		"sound":"grass"
+	},
+	"orecrops:glow_crop":{
+		"textures":"crop_0",
+		"sound":"grass"
+	},
+	"orecrops:gold_crop":{
+		"textures":"crop_0",
+		"sound":"grass"
+	},
+	"orecrops:iron_crop":{
+		"textures":"crop_0",
+		"sound":"grass"
+	},
+	"orecrops:lapis_crop":{
+		"textures":"crop_0",
+		"sound":"grass"
+	},
+	"orecrops:nether_crop":{
+		"textures":"crop_0",
+		"sound":"grass"
+	},
+	"orecrops:quartz_crop":{
+		"textures":"crop_0",
+		"sound":"grass"
+	},
+	"orecrops:redstone_crop":{
+		"textures":"crop_0",
 		"sound":"grass"
 	}
 }

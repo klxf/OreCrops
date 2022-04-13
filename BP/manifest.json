@@ -1,24 +1,24 @@
 {
     "format_version":2,
     "header":{
-        "description":"Ore Crops (BP)",
-        "name":"Ore Crops behavior pack",
+        "name":"Ore Crops (BP)",
+        "description":"Ore Crops behavior pack",
         "uuid":"c5960d44-cfa8-457d-83e4-ccc56fbc22e4",
-        "version":[0,0,1],
+        "version":[0,0,2],
         "min_engine_version":[1,18,10]
     },
     "modules":[
         {
-            "description":"Ore Crops behavior pack",
             "type":"data",
+            "description":"Ore Crops behavior pack",
             "uuid":"713b3a86-1a48-c1b2-26f8-4416db5b876b",
-            "version":[0,0,1]
+            "version":[0,0,2]
         }
     ],
     "dependencies":[
         {
             "uuid":"330199b2-ea33-da59-8cb9-c412055d23e9",
-            "version":[0,0,1]
+            "version":[0,0,2]
         }
     ]
 }

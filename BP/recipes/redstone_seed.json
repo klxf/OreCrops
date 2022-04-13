@@ -1,0 +1,25 @@
+{
+	"format_version":"1.18.10",
+	"minecraft:recipe_shaped": {
+		"description":{
+			"identifier": "orecrops:redstone_seed"
+		},
+		"tags": ["crafting_table"],
+		"pattern": [
+			"OOO",
+			"OSO",
+			"OOO"
+		],
+		"key": {
+			"O": {
+				"item": "minecraft:redstone"
+			},
+			"S": {
+				"item": "minecraft:wheat_seeds"
+			}
+		},
+		"result":{
+			"item": "orecrops:redstone_seed"
+		}
+	}
+}

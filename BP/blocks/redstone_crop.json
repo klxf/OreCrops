@@ -51,7 +51,7 @@
 			"grow_event":{
 				"randomize":[
 					{
-						"weight":1
+						"weight":2
 					},
 					{
 						"weight":1,
