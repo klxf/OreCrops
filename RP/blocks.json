@@ -1,5 +1,5 @@
 {
-	"format_version":"1.18.10",
+	"format_version":"1.18.0",
 	"orecrops:coal_crop":{
 		"textures":"crop_0",
 		"sound":"grass"

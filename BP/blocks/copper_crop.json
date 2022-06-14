@@ -22,9 +22,11 @@
 			"minecraft:breathability":"air",
 			"minecraft:destroy_time":0.5,
 			"minecraft:friction":0.2,
-			"minecraft:map_color":"#000000",
-			"minecraft:block_light_emission":0,
 			"minecraft:block_collision":false,
+			"minecraft:aim_collision": {
+				"origin": [-8.0,0.0,-8.0],
+				"size": [16,3,16]
+			},
 			"minecraft:placement_filter":{
 				"conditions":[
 					{
@@ -101,6 +103,10 @@
 							"render_method":"alpha_test"
 						}
 					},
+					"minecraft:aim_collision": {
+						"origin": [-8.0,0.0,-8.0],
+						"size": [16,3,16]
+					},
 					"minecraft:loot":"loot_tables/copper_seed.json"
 				}
 			},
@@ -112,6 +118,10 @@
 							"texture":"crop_1",
 							"render_method":"alpha_test"
 						}
+					},
+					"minecraft:aim_collision": {
+						"origin": [-8.0,0.0,-8.0],
+						"size": [16,7,16]
 					},
 					"minecraft:loot":"loot_tables/copper_seed.json"
 				}
@@ -125,6 +135,10 @@
 							"render_method":"alpha_test"
 						}
 					},
+					"minecraft:aim_collision": {
+						"origin": [-8.0,0.0,-8.0],
+						"size": [16,9,16]
+					},
 					"minecraft:loot":"loot_tables/copper_seed.json"
 				}
 			},
@@ -136,6 +150,10 @@
 							"texture":"crop_3",
 							"render_method":"alpha_test"
 						}
+					},
+					"minecraft:aim_collision": {
+						"origin": [-8.0,0.0,-8.0],
+						"size": [16,9,16]
 					},
 					"minecraft:loot":"loot_tables/copper_seed.json"
 				}
@@ -149,6 +167,10 @@
 							"render_method":"alpha_test"
 						}
 					},
+					"minecraft:aim_collision": {
+						"origin": [-8.0,0.0,-8.0],
+						"size": [16,12,16]
+					},
 					"minecraft:loot":"loot_tables/copper_seed.json"
 				}
 			},
@@ -160,6 +182,10 @@
 							"texture":"copper_crop_5",
 							"render_method":"alpha_test"
 						}
+					},
+					"minecraft:aim_collision": {
+						"origin": [-8.0,0.0,-8.0],
+						"size": [16,12,16]
 					},
 					"minecraft:loot":"loot_tables/copper_seed.json"
 				}
@@ -173,6 +199,10 @@
 							"render_method":"alpha_test"
 						}
 					},
+					"minecraft:aim_collision": {
+						"origin": [-8.0,0.0,-8.0],
+						"size": [16,13,16]
+					},
 					"minecraft:loot":"loot_tables/copper_seed.json"
 				}
 			},
@@ -184,6 +214,10 @@
 							"texture":"copper_crop_7",
 							"render_method":"alpha_test"
 						}
+					},
+					"minecraft:aim_collision": {
+						"origin": [-8.0,0.0,-8.0],
+						"size": [16,13,16]
 					},
 					"minecraft:loot":"loot_tables/copper_crop.json",
 					"minecraft:on_interact":{
